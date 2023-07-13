@@ -26,13 +26,6 @@ Small businesses can use AI-enabled threat detection and prevention to manage ri
 
 For example, a small financial services business can use AI-enabled threat detection to identify potential fraud or cyber attacks. By taking proactive measures to prevent these threats, the business can protect itself and its customers from potential harm.
 
-Case Study: Amazon
-------------------
-
-Amazon, a global e-commerce giant, uses AI technology to develop strategies for growth and sustainability. Amazon uses AI-enabled analytics to analyze customer data and identify trends in customer behavior, allowing the company to adjust its product offerings and marketing strategies accordingly.
-
-Furthermore, Amazon uses AI-enabled market research to identify emerging trends in the retail industry and develop new products or services that meet changing customer needs and preferences.
-
 Conclusion
 ----------
 
