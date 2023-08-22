@@ -1,5 +1,4 @@
-Managing Risks and Security with AI-Enabled Threat Detection and Prevention
-==================================================================================================================================================
+
 
 As small businesses adopt artificial intelligence (AI) technology, it is important to consider strategies for growth and sustainability. One aspect of this is managing risks and security with AI-enabled threat detection and prevention.
 
