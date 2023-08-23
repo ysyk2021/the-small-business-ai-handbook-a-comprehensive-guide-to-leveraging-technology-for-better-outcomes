@@ -1,5 +1,4 @@
 
-
 Small businesses can leverage various tools and software to enable AI-enabled management and decision-making. By understanding the different types of AI technology available, small businesses can choose the right tools and platforms to achieve their specific goals.
 
 In this chapter, we will explore different AI tools and software that small businesses can use for management and decision-making.

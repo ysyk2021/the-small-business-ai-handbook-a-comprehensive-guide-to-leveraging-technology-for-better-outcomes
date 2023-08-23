@@ -1,5 +1,4 @@
 
-
 Small businesses can leverage different types of AI techniques and platforms to optimize and automate their operations. By understanding the different types of AI technology available, small businesses can choose the right tools and platforms to achieve their specific goals.
 
 In this chapter, we will explore different types of AI techniques and platforms that small businesses can use for optimization and automation.

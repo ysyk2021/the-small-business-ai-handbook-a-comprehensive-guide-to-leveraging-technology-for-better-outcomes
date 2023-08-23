@@ -1,5 +1,4 @@
 
-
 Small businesses are constantly seeking ways to develop a competitive advantage and drive innovation. One way to achieve this is by leveraging artificial intelligence (AI) technology to gather market research and insights.
 
 In this chapter, we will explore how small businesses can use AI-enabled market research and insights to develop competitive advantage and innovation.

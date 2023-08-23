@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) technology can have a significant impact on the outcomes of small businesses. By improving the quality and effectiveness of business operations, creating business value and branding, and meeting and exceeding customer expectations, AI can help small businesses achieve better outcomes.
 
 In this chapter, we will explore the impact of AI on small business outcomes through three sub-chapters:

@@ -1,5 +1,4 @@
 
-
 As small businesses adopt AI technology, it is important to evaluate the impact of AI on small business outcomes. By identifying key performance metrics and goals for AI-enabled small business improvement and optimization, small businesses can measure the success of their AI initiatives and make data-driven decisions.
 
 In this chapter, we will explore how small businesses can evaluate the impact of AI on their operations by identifying key performance metrics and goals.

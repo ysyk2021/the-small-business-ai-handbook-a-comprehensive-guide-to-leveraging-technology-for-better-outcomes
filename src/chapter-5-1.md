@@ -1,5 +1,4 @@
 
-
 Small businesses can use AI technology to create data-driven and insights-based business strategies by leveraging AI-enabled analytics and decision support. By analyzing large amounts of data and identifying trends and patterns, small businesses can make informed decisions about future plans and strategies.
 
 In this chapter, we will explore how small businesses can leverage AI-enabled analytics and decision support to create data-driven and insights-based business strategies.

@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) is a rapidly evolving technology that has the potential to transform the way small businesses operate. AI refers to the ability of machines to learn from data, identify patterns, and make decisions without human intervention.
 
 In this chapter, we will provide an introduction to the basics of AI and its applications in small business.
