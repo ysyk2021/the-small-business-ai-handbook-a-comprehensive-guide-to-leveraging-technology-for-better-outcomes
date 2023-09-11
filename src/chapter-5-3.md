@@ -1,5 +1,4 @@
-Chapter 9: Managing Risks and Security with AI-Enabled Threat Detection and Prevention
-======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of managing risks and ensuring security in the context of AI-enabled threat detection and prevention for small businesses. While AI technologies offer numerous benefits, they also introduce potential risks and vulnerabilities. Small businesses must understand these risks and implement measures to safeguard their operations, data, and systems. This chapter aims to provide a comprehensive guide on managing risks and security through AI-enabled threat detection and prevention.
 

@@ -1,5 +1,4 @@
-Chapter 6: Creating Data-Driven and Insights-Based Business Strategies with AI-Enabled Analytics and Decision Support
-=====================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the power of data-driven decision making and how small businesses can leverage AI-enabled analytics to drive their business strategies. By harnessing the capabilities of AI technologies, small businesses can unlock valuable insights from their data, make informed decisions, and optimize their operations for better outcomes. This chapter aims to provide a comprehensive guide on creating data-driven and insights-based business strategies using AI-enabled analytics and decision support.
 
